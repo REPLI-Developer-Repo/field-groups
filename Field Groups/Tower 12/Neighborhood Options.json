@@ -1,0 +1,16 @@
+{
+    "neighborhood-section": {
+        "page_title": "Neighborhood Section",
+        "menu_title": "Neighborhood Section",
+        "menu_slug": "neighborhood-section",
+        "capability": "edit_posts",
+        "position": "2.1",
+        "parent_slug": "",
+        "icon_url": "https:\/\/repli360.com\/wp-content\/uploads\/2019\/11\/repli-icon16x16-2.png",
+        "redirect": true,
+        "post_id": "173",
+        "autoload": false,
+        "update_button": "Update",
+        "updated_message": "Options Updated"
+    }
+}

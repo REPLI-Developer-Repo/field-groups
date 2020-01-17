@@ -1,0 +1,16 @@
+{
+    "offer-pop-up": {
+        "page_title": "Offer Pop Up",
+        "menu_title": "Offer Pop Up",
+        "menu_slug": "offer-pop-up",
+        "capability": "edit_posts",
+        "position": "2.4",
+        "parent_slug": "",
+        "icon_url": "https:\/\/repli360.com\/wp-content\/uploads\/2019\/11\/repli-icon16x16-2.png",
+        "redirect": true,
+        "post_id": "141",
+        "autoload": false,
+        "update_button": "Update",
+        "updated_message": "Options Updated"
+    }
+}

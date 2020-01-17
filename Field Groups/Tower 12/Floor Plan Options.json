@@ -1,0 +1,16 @@
+{
+    "floor-plan": {
+        "page_title": "Floor Plan",
+        "menu_title": "Floor Plan",
+        "menu_slug": "floor-plan",
+        "capability": "edit_posts",
+        "position": "2.6",
+        "parent_slug": "",
+        "icon_url": "https:\/\/repli360.com\/wp-content\/uploads\/2019\/11\/repli-icon16x16-2.png",
+        "redirect": true,
+        "post_id": "2",
+        "autoload": false,
+        "update_button": "Update",
+        "updated_message": "Options Updated"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "contact-and-hours": {
+        "page_title": "Contact and Hours",
+        "menu_title": "Contact and Hours",
+        "menu_slug": "contact-and-hours",
+        "capability": "edit_posts",
+        "position": "2.7",
+        "parent_slug": "",
+        "icon_url": "https:\/\/repli360.com\/wp-content\/uploads\/2019\/11\/repli-icon16x16-2.png",
+        "redirect": true,
+        "post_id": "141",
+        "autoload": false,
+        "update_button": "Update",
+        "updated_message": "Options Updated"
+    }
+}

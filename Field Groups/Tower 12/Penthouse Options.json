@@ -1,0 +1,16 @@
+{
+    "penthouse": {
+        "page_title": "Penthouse",
+        "menu_title": "Penthouse",
+        "menu_slug": "penthouse",
+        "capability": "edit_posts",
+        "position": "2.3",
+        "parent_slug": "",
+        "icon_url": "https:\/\/repli360.com\/wp-content\/uploads\/2019\/11\/repli-icon16x16-2.png",
+        "redirect": true,
+        "post_id": "296",
+        "autoload": false,
+        "update_button": "Update",
+        "updated_message": "Options Updated"
+    }
+}

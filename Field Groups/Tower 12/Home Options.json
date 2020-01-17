@@ -1,0 +1,16 @@
+{
+    "home": {
+        "page_title": "Home",
+        "menu_title": "Home",
+        "menu_slug": "home",
+        "capability": "edit_posts",
+        "position": "2.5",
+        "parent_slug": "",
+        "icon_url": "https:\/\/repli360.com\/wp-content\/uploads\/2019\/11\/repli-icon16x16-2.png",
+        "redirect": true,
+        "post_id": "2",
+        "autoload": false,
+        "update_button": "Update",
+        "updated_message": "Options Updated"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "amenities": {
+        "page_title": "Amenities",
+        "menu_title": "Amenities",
+        "menu_slug": "amenities",
+        "capability": "edit_posts",
+        "position": "2.8",
+        "parent_slug": "",
+        "icon_url": "https:\/\/repli360.com\/wp-content\/uploads\/2019\/11\/repli-icon16x16-2.png",
+        "redirect": true,
+        "post_id": "103",
+        "autoload": false,
+        "update_button": "Update",
+        "updated_message": "Options Updated"
+    }
+}

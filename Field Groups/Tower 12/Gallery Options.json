@@ -1,0 +1,16 @@
+{
+    "photo-gallery": {
+        "page_title": "Photo Gallery",
+        "menu_title": "Photo Gallery",
+        "menu_slug": "photo-gallery",
+        "capability": "edit_posts",
+        "position": "2.2",
+        "parent_slug": "",
+        "icon_url": "https:\/\/repli360.com\/wp-content\/uploads\/2019\/11\/repli-icon16x16-2.png",
+        "redirect": true,
+        "post_id": "67",
+        "autoload": false,
+        "update_button": "Update",
+        "updated_message": "Options Updated"
+    }
+}
